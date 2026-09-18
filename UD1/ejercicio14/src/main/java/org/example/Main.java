@@ -5,7 +5,7 @@ package org.example;
 public class Main {
     static void main() {
 
-        final int SEGUNDOS = 186_435;
+        final int SEGUNDOS = 186_455;
 
         System.out.println( SEGUNDOS + " segundos");
 
