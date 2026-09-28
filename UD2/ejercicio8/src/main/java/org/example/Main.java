@@ -8,7 +8,7 @@ public class Main {
     static void main() {
         Scanner teclado = new Scanner(System.in);
 
-        int a,b,c,d;
+        int a,b,c,d,total;
 
         System.out.println("Escribe un numero entero de 4 digitos ");
 
